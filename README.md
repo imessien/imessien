@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imessien
 - 👀 I’m getting my PhD in Biomedical Engineering at Johns Hopkins School of Medicine
 - 🌱 I’m currently learning biomedical data science techniques
-- 💞️ I’m looking to collaborate on omics multiview data analysis and bioinformatics acceleration
+- 💞️ I’m looking to collaborate on  machine learning and statistical methods on a ~15k multiomics dataset for biomarker discovery of Alzhiemer's and other aging diseaes
 - 📫 Send me at iessien1@jhu.edu
 
 <!---
